@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTitle">24dp</dimen>
+    <dimen name="heroPicSize">120dp</dimen>
+    <dimen name="titleSize">18sp</dimen>
+</resources>

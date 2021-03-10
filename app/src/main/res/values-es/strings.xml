@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppEjemplo1</string>
+    <string name="title">Super Heroes!</string>
+    <string name="btnSend">Enviar</string>
+    <string name="notif">Enviaste a %s</string>
+    <string name="image_of_the_hero">Imagen del Héroe</string>
+    <string name="heroName">Nombre del Héroe</string>
+</resources>

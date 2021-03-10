@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppEjemplo1</string>
+    <string name="title">Super Heroes!</string>
+    <string name="btnSend">Send</string>
+    <string name="notif">You sent %s</string>
+    <string name="image_of_the_hero">Image of the Hero</string>
+    <string name="heroName">Enter heroe\'s name</string>
+</resources>
